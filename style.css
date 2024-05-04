@@ -13,14 +13,13 @@ body{
     height: 100svh;
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: center;
     background: linear-gradient(to bottom right, #5D13E7, #8249B5);
 }
 .main-container{
     width: 100%;
     max-width: 500px;
     margin: 10px;
-    margin-top: 25%;
     padding: 12px;
     background-color: #FBFBFB;
 
